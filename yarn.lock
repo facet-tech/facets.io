@@ -3095,10 +3095,10 @@ react-eva-icons@^0.0.8:
   dependencies:
     eva-icons "^1.1.1"
 
-react-hook-form@^6.15.4:
-  version "6.15.4"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-6.15.4.tgz#328003e1ccc096cd158899ffe7e3b33735a9b024"
-  integrity sha512-K+Sw33DtTMengs8OdqFJI3glzNl1wBzSefD/ksQw/hJf9CnOHQAU6qy82eOrh0IRNt2G53sjr7qnnw1JDjvx1w==
+react-hook-form@^7.24.2:
+  version "7.24.2"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.24.2.tgz#c90735079886573ee3ada948ccf8bd45042298ac"
+  integrity sha512-Ora2l2A4ts8xLxP9QOKEAObTMNZNdR7gt3UpWb9alFJx/AFAQcYAi/joLNo6PoC0AE/Vyq4pnCYb9jUufWoVNw==
 
 react-image-lightbox@^5.1.1:
   version "5.1.1"
